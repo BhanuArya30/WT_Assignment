@@ -1,0 +1,25 @@
+{
+  "Huawei": {
+    "Twitter": [
+      {
+        "tweet_created": "01/02/2018",
+        "tweets": [
+          {
+            "tweet_id": "...",
+            "type": "proactive",
+            "tweet": "...",
+            "metrics": [
+              {
+                "favorite_count": 101,
+                "replies_count": 3,
+                "retweet_count": 28,
+                "unmetric_engagement": 396
+              }
+            ],
+            "url": "..."
+          }
+        ]
+      }
+    ]
+  }
+}
