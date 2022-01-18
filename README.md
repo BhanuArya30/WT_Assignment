@@ -1,8 +1,9 @@
 # WT_Assignment
 
-#################################################################################
+____________
 Task1 : NLP
-#################################################################################
+____________
+
 Summary:
 I have focussed on the exploratory data analysis and building a sentiment classifcation of tweets using BERT based model.
 
@@ -19,9 +20,9 @@ Future improvements:
   4. Entity extraction - Analysis of sentiment across Organizations and People
 
 
-#################################################################################
+__________________________
 Task2 : Data Reformatting
-#################################################################################
+__________________________
 
 Summary:
 I have used Object Objected Approach to define the schema for reformatting. During the process, I did not consider duplicate tweets. There were tweets with same text and metrics but different 'Unnamed' first column.
